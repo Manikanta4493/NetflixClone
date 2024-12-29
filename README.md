@@ -31,7 +31,7 @@ To run this project locally for development purposes, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/rajatrawal/netflix-gpt.git
+   git clone https://github.com/Manikanta4493/NetflixClone/blob/master/README.md
    ```
 
 2. Navigate to the project directory:
