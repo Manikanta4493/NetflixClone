@@ -1,15 +1,3 @@
-# Netflix GPT Project in Namaste React Web Series By Akshay Saini
-
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Netflix%20GPT-green)](https://github.com/rajatrawal/netflix-gpt)
-[![Firebase Deployment](https://img.shields.io/badge/Live-Demo)](https://netflixgpt-a347f.web.app/browse)
-
-[![React](https://img.shields.io/badge/React-Frontend-blue)](https://reactjs.org/)
-[![TMDB](https://img.shields.io/badge/TMDB-Movie%20Data-blue)](https://www.themoviedb.org/)
-[![Firebase](https://img.shields.io/badge/Firebase-Authentication%20%26%20Hosting-blue)](https://firebase.google.com/)
-[![OpenAI](https://img.shields.io/badge/OpenAI-Movie%20Recommendation-blue)](https://beta.openai.com/)
-
-🎬 Welcome to Netflix GPT, a Netflix clone that provides users with a familiar interface to browse movies. The application is integrated with TMDB to fetch movie details and with Firebase for authentication. Users can watch trailers on YouTube by clicking on a movie. Additionally, there's a section for specialized movie suggestions, where users can enter their OpenAI key to get personalized movie recommendations.
-
 
 ## About This Project
 
